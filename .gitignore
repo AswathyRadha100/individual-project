@@ -1,3 +1,4 @@
+*.csv
 env.py
 .DS_Store
 .ipynb_checkpoints/
